@@ -1,0 +1,50 @@
+textarea {
+    display: block;
+    margin: 20px auto;
+    width: 300px;
+    height: 150px;
+    border: 3px solid;
+    background-color: aqua;
+}
+
+button {
+    display: block;
+    margin: 10px auto;
+    height: 30px;
+    width: 100px;
+}
+
+input {
+    display: block;
+    margin-right: 10px;
+    text-align: center;
+    
+}
+
+ol {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+  }
+  
+  li input[type="checkbox"] {
+    margin-right: 0;
+  }
+  
+
+  p{
+    margin: 0;
+  }
+  
+  button{
+    width: 60px;
+    height: 20px;
+  }
